@@ -23,3 +23,18 @@
     color: #222222;
     text-decoration: none;
 }
+
+/* .bg-gradient-primary-to-secondary{
+    background: #1e30f3;
+    background: linear-gradient(135deg, #1e30f3 0%, #fff 100%);
+}
+
+.profile{
+    border-radius: 5vw;
+    position: relative;
+     height: 75vw;
+    width: 75vw;
+    margin-top: 5vw;
+    max-height: 40rem;
+    max-width: 40rem;
+} */
