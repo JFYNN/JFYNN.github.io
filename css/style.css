@@ -26,7 +26,7 @@
 
 .bg-gradient-primary-to-secondary{
     background: #1e30f3;
-    background: linear-gradient(135deg, #1e30f3 0%, #fff 150%);
+    background: linear-gradient(135deg, #1e30f3 0%, #fff 170%);
 }
 
 .profile{
