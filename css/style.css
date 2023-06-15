@@ -40,16 +40,6 @@
     max-height: 40rem;
     max-width: 40rem;
 }
-
-/* .row>* {
-    flex-shrink: 0;
-    width: 100%;
-    max-width: 100%;
-    padding-right: calc(var(--bs-gutter-x) / 2);
-    padding-left: calc(var(--bs-gutter-x) / 2);
-    margin-top: var(--bs-gutter-y);
-} */
-
 .form-floating {
     position: relative;
 }
@@ -93,4 +83,28 @@ a {
 ::after,
 ::before {
     box-sizing: border-box;
+}
+
+.about-me-text{
+    font-size: 28px;
+    line-height: 36px;
+    margin: 0;
+    font-weight: 400;
+    font-family: "poppins", sans-serif;
+}
+
+.skills .progress-bar{
+    height: 10px;
+    transition: 0.9s;
+    background-color: #5faee3;
+}
+
+.progress-bar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: var(--bs-progress-bar-color);
+    text-align: center;
+    white-space: nowrap;
 }
