@@ -1,0 +1,26 @@
+body {
+    background-image: url(../img/Hexagon.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-blue{
+    background-color: #050A30;
+}
+.white{
+    color: white;
+}
+.card-width{
+    width: 140%; 
+}
+.spread{
+    padding-left: 10%;
+    height: 100vg;
+}
+
+.loginBtn {
+    background-color: transparent;
+}
+
+.usernameInput {
+    padding-top: 220px;
+}

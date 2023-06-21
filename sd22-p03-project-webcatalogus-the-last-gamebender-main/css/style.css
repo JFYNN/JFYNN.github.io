@@ -1,0 +1,80 @@
+/* Put yor own CSS code here when needed */
+body {
+    background-color: darkslategrey
+}
+
+.nav-bar {
+    background-color: black;
+}
+
+.font-alfa {
+    font-family: 'Alfa Slab One';
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: greenyellow;
+}
+
+.blue {
+    color: blue;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.people-cards {
+    background-color: darkslategrey;
+}
+
+.people {
+    background-color: lightgray;
+    color: black;
+    height: 730px;
+    border: 1px solid black;
+}
+
+/* div {
+    border: 1px solid black;
+} */
+
+.copy {
+    height: 50px;
+}
+
+.background {
+    background-size: cover;
+}
+
+.rivesh {
+    background-color: black;
+    color: goldenrod;
+}
+
+.gabriel {
+    background-color: lightgray;
+}
+
+.derrik {
+    background-color: black;
+    color: green;
+}
+
+.jaden {
+    background-color: lightgray;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
+.no-decor{
+    text-decoration: none;
+}
+.image-fluid{
+    height: 350px;
+} 
